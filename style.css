@@ -281,23 +281,23 @@ section{
 }
 
 .skills .html::before{
-    width: 95%;
+    width: 90%;
     background: rgb(219, 69, 50);
 }
 .skills .css::before{
-    width: 80%;
+    width: 75%;
     background: rgb(12, 74, 209);
 }
 .skills .javascript::before{
-    width: 75%;
+    width: 55%;
     background: rgb(255, 197, 91);
 }
 .skills .react::before{
-    width: 70%;
+    width: 85%;
     background: rgb(17, 173, 173);
 }
 .skills .node::before{
-    width: 65%;
+    width: 70%;
     background: rgb(5, 189, 97);
 }
 
